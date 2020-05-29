@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hQUmvQDh8uDWIj/wSqG9SqJiObSkKxbZ7aRbc46io/+M7kmDyT1afmzs0yQNcUVgbcL865S9FZWLjLgz0izhlg==",
+  "dgSpecHash": "yP4sBCzqha+bYmMky1wVqTFj85j9VocJ8GXnGE6mhSMYQyIRkBAefrtbopWn87V2dHSk0waaZNyRbEfBJ/jFvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marco\\Projects\\POADs\\HTDS-PW3-V\\AspNetMvcGettingStarted\\AspNetMvcGettingStarted.csproj",
+  "projectFilePath": "C:\\Users\\marco\\Projects\\POADs\\HTDS-PW3-V2\\ExemploAspNetCoreMVC\\AspNetMvcGettingStarted.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

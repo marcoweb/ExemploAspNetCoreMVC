@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco\\Projects\\POADs\\HTDS-PW3-V\\AspNetMvcGettingStarted\\AspNetMvcGettingStarted.csproj",
+      "projectUniqueName": "C:\\Users\\marco\\Projects\\POADs\\HTDS-PW3-V2\\ExemploAspNetCoreMVC\\AspNetMvcGettingStarted.csproj",
       "projectName": "AspNetMvcGettingStarted",
-      "projectPath": "C:\\Users\\marco\\Projects\\POADs\\HTDS-PW3-V\\AspNetMvcGettingStarted\\AspNetMvcGettingStarted.csproj",
+      "projectPath": "C:\\Users\\marco\\Projects\\POADs\\HTDS-PW3-V2\\ExemploAspNetCoreMVC\\AspNetMvcGettingStarted.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marco\\Projects\\POADs\\HTDS-PW3-V\\AspNetMvcGettingStarted\\obj\\",
+      "outputPath": "C:\\Users\\marco\\Projects\\POADs\\HTDS-PW3-V2\\ExemploAspNetCoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
